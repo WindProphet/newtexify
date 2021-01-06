@@ -25,3 +25,9 @@ Usage newtexify.rb [options] [file]
     -h, --help                       Prints this help
 ```
 
+### Render from pipe
+
+```
+cat document.tex | newtexify.rb
+```
+
